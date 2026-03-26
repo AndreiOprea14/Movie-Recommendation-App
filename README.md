@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation Web App
+# Movie Recommendation Web App
 
 This is a lightweight, interactive web application that recommends movies based on the user's preferred genres. I developed this alongside my university team as a practical project to explore Python web frameworks and simple data parsing.
 
